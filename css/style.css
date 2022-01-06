@@ -172,7 +172,7 @@ h3 {
 .reason {
   text-align: center;
   background-color: rgb(194, 159, 113);
-  background-image: url(images/cover.png);
+  background-image: url(/images/cover.png);
   background-repeat: no-repeat;
   background-size: 100%;
   padding-bottom: 20%;
@@ -194,7 +194,7 @@ h3 {
 .footer {
   background-color: black;
   text-align: center;
-  background-image: url(images/dog-paw-print-transparent-background-5.png);
+  background-image: url(/images/dog-paw-print-transparent-background-5.png);
   background-size: 10%;
 }
 .copy-title {
